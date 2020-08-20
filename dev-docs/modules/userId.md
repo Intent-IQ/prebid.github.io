@@ -338,7 +338,7 @@ pbjs.setConfig({
         userIds: [{
             name: "intentIqId",
             params: {
-                parnter: 123456			// valid partner id
+                partner: 123456			// valid partner id
             },
             storage: {
                 type: "cookie",
@@ -359,7 +359,7 @@ pbjs.setConfig({
         userIds: [{
             name: "intentIqId",
             params: {
-                parnter: 123456			// valid partner id
+                partner: 123456			// valid partner id
             },
             storage: {
                 type: "html5",
